@@ -31,7 +31,7 @@
 
         <Button
             android:id="@+id/button_camera"
-            android:text="@string/button_camera"
+            android:text="@string/button_add_photo"
             android:padding="@dimen/padding_normal"
             android:layout_width="@dimen/button_width"
             android:layout_height="wrap_content" />

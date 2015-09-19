@@ -5,5 +5,7 @@
 
     <string name="main_title">NameGame</string>
     <string name="button_play">Play</string>
-    <string name="button_camera">Camera</string>
+    <string name="button_add_photo">Add Photo</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_add_photo">AddPhotoActivity</string>
 </resources>
