@@ -45,6 +45,8 @@ public class MainActivityFragment extends Fragment {
 
     private void startGameActivity() {
         Intent gameIntent = new Intent(getActivity(), GameActivity.class);
+        gameIntent.putExtra("myString", "Hello HooApps");
+        gameIntent.putExtra("myInt", 5);
         startActivity(gameIntent);
     }
 
